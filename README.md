@@ -3,11 +3,11 @@
 
 [2-3 컴퓨터가 수를 표현하는 방법 (이진법)](https://github.com/matcha-bingsu/C_language/blob/main/Note/2-3%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%80%E1%85%A1%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%91%E1%85%AD%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20(%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B8).md)
 
-[3 변수가 뭐지?](https://www.notion.so/3-8afb4308a79a4b4a9e8b693cf33f2f97)
+[3 변수가 뭐지?](https://github.com/matcha-bingsu/C_language/blob/main/Note/3%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%80%E1%85%A1%20%20%E1%84%86%E1%85%AF%E1%84%8C%E1%85%B5.md)
 
-[4-1 계산하리](https://www.notion.so/4-1-6c00b5261e1443fe891099c265553446)
+[4-1 계산하리](https://github.com/matcha-bingsu/C_language/blob/main/Note/4-1%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%92%E1%85%A1%E1%84%85%E1%85%B5.md)
 
-[4-2 컴퓨터가 음수를 표현하는 방법 (2의 보수)](https://www.notion.so/4-2-2-cf168058d06b42beb3f03810da276d26)
+[4-2 컴퓨터가 음수를 표현하는 방법 (2의 보수)](https://github.com/matcha-bingsu/C_language/blob/main/Note/4-2%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%80%E1%85%A1%20%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%89%E1%85%AE%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%91%E1%85%AD%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20(2%E1%84%8B%E1%85%B4%20%E1%84%87%E1%85%A9%E1%84%89%E1%85%AE).md)
 
 [6 만약에...(if문)](https://www.notion.so/6-if-0a144370ecc240989a7b3231cd874457)
 
